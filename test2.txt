@@ -1,4 +1,9 @@
 hello
+<<<<<<< HEAD
 
 
 hello (commit Alpha 123 master)
+=======
+hello line 2 (commit 2 new branch)
+hello (commit 3 new branch)
+>>>>>>> new_branch
